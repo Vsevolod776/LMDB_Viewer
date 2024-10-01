@@ -1,2 +1,2 @@
-# LMDB_Viewer
-LMDB GUI Viewer
+# LMDB Viewer
+A program for graphical viewing of LMDB
